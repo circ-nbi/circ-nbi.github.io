@@ -1,0 +1,4 @@
+# This directory is currently empty as there are no blog posts, however,
+# will need it in the future. Keep this .gitignore file here.
+*
+!.gitignore
