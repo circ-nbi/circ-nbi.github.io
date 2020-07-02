@@ -2,7 +2,6 @@
 layout: page
 ---
 
-## Publications:
 -------------
 
 {: .box-note} 
