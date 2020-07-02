@@ -2,8 +2,7 @@
 layout: page
 ---
 
-## Contact Information:
--------------
+<p style="color:#1E6B52;font-size:35px;"><strong>Contact Information</strong></p>
 
 __Lara Ianov, Ph.D.__
 

@@ -2,8 +2,7 @@
 layout: page
 ---
 
-## NBI model of services:
--------------
+<p style="color:#1E6B52;font-size:35px;"><strong>NBI model of services</strong></p>
 
 * __Next-generation sequencing analysis:__ The long-term commitment of the NBI is to provide robust and reproducible
 pipelines for numerous omics applications. Currently, the NBI provides support for several transcriptomics
@@ -25,4 +24,3 @@ __NOTE__: In collaboration with Dr. Brittany Lasseigne and her lab, we are devel
 __Representative workflow from NBI services__
 
 ![NBI_workflow](/assets/img/Representative_workflow.png){: .mx-auto.d-block :}
-

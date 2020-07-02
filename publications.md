@@ -2,9 +2,9 @@
 layout: page
 ---
 
--------------
+<p style="color:#1E6B52;font-size:35px;"><strong>Publications</strong></p>
 
-{: .box-note} 
+{: .box-note}
 As the NBI grows and participates across multiple projects, we will continue to add publications to this page.  This section will be representative of the work which contained a significant contribution from the NBI to the research. However, we encourage all potential collaborators to utilize our service regardless of the level of involvement desired.
 
 
@@ -12,7 +12,7 @@ __Jeremy Day lab:__
 
 * Katherine E. Savell\*, Jennifer J. Tuscher\*, Morgan E. Zipperly\*, Corey G. Duke\*, Robert A.Phillips III\*, Allison J. Bauman, Saakshi Thukral, Faraz A. Sultan, Nicholas A. Goska, Lara Ianov, Jeremy J. Day. [A dopamine-induced gene expression signature regulates neuronal function and cocaine response](https://advances.sciencemag.org/content/6/26/eaba4221) Science Advances, June, 2020 doi: 10.1126/sciadv.aba4221
 
-R Shiny app linked to the publication above:<br/> 
+R Shiny app linked to the publication above:<br/>
 [https://day-lab.shinyapps.io/ratlas/](https://day-lab.shinyapps.io/ratlas/)
 
 * Katherine E. Savell, Svitlana V. Bach, Morgan E. Zipperly, Jasmin S. Revanna, Nicholas A. Goska, Jennifer J. Tuscher, Corey G. Duke , Faraz A. Sultan, Julia N. Burke, Derek Williams, Lara Ianov, Jeremy J. Day. [A neuron-optimized CRISPR/dCas9 activation system for robust and specific gene regulation.](https://www.eneuro.org/content/6/1/ENEURO.0495-18.2019) eNeuro 2019 doi: https://doi.org/10.1523/ENEURO.0495-18.2019
