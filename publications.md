@@ -32,16 +32,14 @@ __Farah Lubin lab:__
 * Richard G Sanchez, Ryley R Parrish, Megan C Rich, William M Webb, Roxanne M Lockhart, Kazuhito Nakao, Lara Ianov, Susan C Buckingham, Mark Cunningham, Devin R Broadwater, Alistar Jenkins, Nihal C De Lanerolle, Tore Eid, Kristen Riley, Farah D Lubin. [Human and Rodent Temporal Lobe Epilepsy is Characterized by Changes in O-GlcNAc Homeostasis that can be Reversed to Dampen Epileptiform Activity.](https://www.sciencedirect.com/science/article/abs/pii/S096999611830370X?via%3Dihub) Neurobiology of Disease 2019; doi:  https://doi.org/10.1016/j.nbd.2019.01.001
 
 -------------
+__Matthew Alexander lab:__
+
+*  Andrea L. Reid, Yimin Wang,  Adrienne Samani,  Rylie M. Hightower,  Michael A. Lopez, Shawn R. Gilbert,  Lara Ianov,  David K. Crossman, Louis J. Dell’Italia,  Douglas P. Millay,  Thomas van Groen,  Ganesh V. Halade,  Matthew S. Alexander. [DOCK3 is a dosage-sensitive regulator of skeletal muscle and Duchenne muscular dystrophy-associated pathologies.](https://doi.org/10.1093/hmg/ddaa173) Human Molecular Genetics. doi: https://doi.org/10.1093/hmg/ddaa173
+
+-------------
 __Randall Davis lab:__
 
 * Kazuhito Honjo, Woong-Jai Won, Rodney G. King, Lara Ianov, David K. Crossman, Juliet L. Easlick, Mikhail A. Shakhmatov, Mohamed Khass, Andre M. Vale, Robert P. Stephan, Ran Li and Randall S. Davis. Fc Receptor-Like 6 (FCRL6) [Discloses Progenitor B Cell Heterogeneity That Correlates With Pre-BCR Dependent and Independent Pathways of Natural Antibody Selection.](https://www.frontiersin.org/articles/10.3389/fimmu.2020.00082/full) Frontiers in Immunology 2020;  doi: https://doi.org/10.3389/fimmu.2020.00082
-
--------------
-__Matthew Alexander lab:__
-
-_Preprint:_
-
-*  Andrea L. Reid, Yimin Wang,  Adrienne Samani,  Rylie M. Hightower,  Michael A. Lopez, Shawn R. Gilbert,  Lara Ianov,  David K. Crossman, Louis J. Dell’Italia,  Douglas P. Millay,  Thomas van Groen,  Ganesh V. Halade,  Matthew S. Alexander. [DOCK3 is a dosage-sensitive regulator of skeletal muscle and Duchenne muscular dystrophy-associated pathologies.](https://www.biorxiv.org/content/10.1101/2020.03.27.010223v1) BioRxiv. doi: https://doi.org/10.1101/2020.03.27.010223
 
 -------------
 __Alecia Gross - CIRC Pilot study:__
