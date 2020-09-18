@@ -15,16 +15,13 @@ __Jeremy Day lab:__
 R Shiny app linked to the publication above:<br/>
 [https://day-lab.shinyapps.io/ratlas/](https://day-lab.shinyapps.io/ratlas/)
 
+* Morgan E. Zipperly, Faraz A. Sultan, Guan-En Graham, Andrew C. Brane, Natalie A. Simpkins, Nancy V. N. Carullo, Lara Ianov, Jeremy J. Day. [Regulation of dopamine-dependent transcription and cocaine action by Gadd45b](https://doi.org/10.1038/s41386-020-00828-z) Neuropsychopharmacology. doi: https://doi.org/10.1038/s41386-020-00828-z
+
+* Nancy V. N. Carullo,  Robert A. Phillips III, Rhiana C. Simon, Salomon A. Roman Soto, Jenna E. Hinds, Aaron J. Salisbury, Jasmin S. Revanna, Kendra D. Bunner,  Lara Ianov, Faraz A. Sultan,  Katherine E. Savell,  Charles A. Gersbach,  Jeremy J. Day [Enhancer RNAs predict enhancer-gene regulatory links and are critical for enhancer function in neuronal systems.](https://doi.org/10.1093/nar/gkaa671) Nucleic Acids Research. doi: https://doi.org/10.1093/nar/gkaa671
+
 * Katherine E. Savell, Svitlana V. Bach, Morgan E. Zipperly, Jasmin S. Revanna, Nicholas A. Goska, Jennifer J. Tuscher, Corey G. Duke , Faraz A. Sultan, Julia N. Burke, Derek Williams, Lara Ianov, Jeremy J. Day. [A neuron-optimized CRISPR/dCas9 activation system for robust and specific gene regulation.](https://www.eneuro.org/content/6/1/ENEURO.0495-18.2019) eNeuro 2019 doi: https://doi.org/10.1523/ENEURO.0495-18.2019
 
-
 [UAB News  press release](https://www.uab.edu/news/research/item/10224-robust-and-specific-gene-regulation-tool-developed-for-primary-brain-neurons) - Feb 25, 2019
-
-_Preprints:_
-
-* Morgan E. Zipperly, Faraz A. Sultan, Guan-En Graham, Andrew C. Brane, Natalie A. Simpkins, Lara Ianov, Jeremy J. Day. [Regulation of dopamine-dependent transcription and cocaine action by Gadd45b](https://www.biorxiv.org/content/10.1101/2020.05.01.072926v1) BioRxiv. doi: https://doi.org/10.1101/2020.05.01.072926
-
-* Nancy V. N. Carullo,  Robert A. Phillips III, Rhiana C. Simon, Salomon A. Roman Soto, Jenna E. Hinds, Aaron J. Salisbury, Jasmin S. Revanna, Kendra D. Bunner,  Lara Ianov, Faraz A. Sultan,  Katherine E. Savell,  Charles A. Gersbach,  Jeremy J. Day [Enhancer RNAs predict enhancer-gene regulatory links and are critical for enhancer function in neuronal systems.](https://www.biorxiv.org/content/10.1101/270967v3) BioRxiv. doi: https://doi.org/10.1101/270967
 
 -------------
 __Farah Lubin lab:__
