@@ -10,7 +10,7 @@ applications, such as bulk RNA-seq (whole-transcriptome, mRNA), single-cell/nucl
 applications such as whole-genome bisulfite sequencing (WGBS), reduced representation bisulfite sequencing (RRBS), and
 immunoprecipitation sequencing techniques such as MeDIP-seq, MBD-seq, ChIP-seq.
 
-Note that genomic analysis such as variant calling is available through the UAB Biological Data Science core (U-BDS) at https://www.uab.edu/cores/ircp/bds. We encourage interested investigators to schedule a consultation for this service through U-BDS.
+Note that genomic analysis such as variant calling is available through the [UAB Biological Data Science core](https://www.uab.edu/cores/ircp/bds). We encourage interested investigators to schedule a consultation for this service through U-BDS.
 
 Further, epigenomics applications are currently available only to Neurobiology investigators, but will be available at U-BDS to the greater community in the future.
 
