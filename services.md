@@ -9,6 +9,11 @@ pipelines for numerous omics applications. Currently, the NBI provides support f
 applications, such as bulk RNA-seq (whole-transcriptome, mRNA), single-cell/nuclei RNA-seq, CITE-seq and epigenomics
 applications such as whole-genome bisulfite sequencing (WGBS), reduced representation bisulfite sequencing (RRBS), and
 immunoprecipitation sequencing techniques such as MeDIP-seq, MBD-seq, ChIP-seq.
+
+Note that genomic analysis such as variant calling is available through the UAB Biological Data Science core (U-BDS) at https://www.uab.edu/cores/ircp/bds. We encourage interested investigators to schedule a consultation for this service through U-BDS.
+
+Further, epigenomics applications are currently available only to Neurobiology investigators, but will be available at U-BDS to the greater community in the future.
+
 * __Visualization of omics data:__ Presenting the wealth of information from an omics study is crucial for scientists to
 effectively relay their data. The NBI produces high-quality figures from omics data.
 * __Support for writing manuscripts and grant applications:__ Formal assistance is provided during the writing/reviewing
